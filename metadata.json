@@ -1,0 +1,5 @@
+{
+  "name": "OnGuard — AI Cyber Safety Companion",
+  "description": "An AI-powered safety assistant to help users detect, understand, and avoid online scams, manipulation, or harmful messages. It analyzes user-provided text and provides a risk score, a clear explanation, and actionable safety advice, all while preserving user privacy.",
+  "requestFramePermissions": []
+}
